@@ -10,3 +10,5 @@ Aprendendo comandos básicos do Git
 	git commit -m "menssagem"
 	git log
 	git checkout -- arquivo
+	git reset HEAD arquivo
+	git reset --soft HEAD~1
