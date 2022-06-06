@@ -11,4 +11,5 @@ Aprendendo comandos básicos do Git
 	git log
 	git checkout -- arquivo
 	git reset HEAD arquivo
-	git reset --soft HEAD~1
+	git reset --soft HEAD~
+	git log --pretty=oneline --abbrev-commit
